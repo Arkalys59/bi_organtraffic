@@ -1,7 +1,7 @@
 Config = {}
 
 -- URL du webhook Discord
-Config.DiscordWebhook = "https://discord.com/api/webhooks/1292551220485030021/oG7v0l3kiAVHNx6jnF6xlvkYcTZz0_D9VeStv39Jlw2Y3e73MgluUWZ5-RvI9zRVSe49" -- Remplace par ton URL webhook
+Config.DiscordWebhook = "VOTRE WEBHOOK" -- Remplace par ton URL webhook
 
 -- Pnj Mission
 Config.MissionNpc = {
